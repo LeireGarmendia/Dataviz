@@ -25,7 +25,7 @@ The **Coxcomb** or **Rose diagram** was designed by Florence Nightingale. This p
 
 ### **Is the length of ICU stay related to the patient’s age?**
 
-This **barplot** shows that there is no relation between the length of ICU stay and the age
+This **barplot** shows that there is no relation between the length of ICU stay and the age aaa
 
 ![barplot](figures/bar_plot.png)
 
